@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mvp</string>
+    <string name="app_user">用户名</string>
+    <string name="app_pwd">密码</string>
+    <string name="button_login">登录</string>
+    <string name="button_reg">注册</string>
+    <string name="app_pzsh">品质生活</string>
+    <string name="app_mlss">魔力时尚</string>
+    <string name="rxxp">热销新品</string>
+    <string name="app_zc_dl">已有账户?立即登录</string>
+    <string name="reg_loginpass">登录密码</string>
+    <string name="reg_yanzheng">验证码</string>
+    <string name="reg_shouji">手机号</string>
+    <string name="app_butn1">你想要的</string>
+    <string name="app_butn5">我的</string>
+    <string name="app_butn3">购物</string>
+    <string name="app_butn4">购物历史</string>
+    <string name="app_butn2">神秘的东西</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.bwie.myapplication.Topbar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:titleColor="#dd00"
+        app:titleSize="16sp"
+        app:titleText="呼呼呼"
+        app:zhangleftBackGrouod="@drawable/ic_app_leftbackgroud"
+        app:zhangrightBackGroud="@drawable/ic_app_leftbackgroud"/>
+
+    <!--<android.support.v7.widget.RecyclerView
+        android:id="@+id/frag_recy"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>-->
+</LinearLayout>
